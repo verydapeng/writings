@@ -1,5 +1,5 @@
 # Intro 
-I have no idea since when the word **velocity** found a new home in software development, it is nevertheless popular these days. Mr Isaac Newton would not be happy if you talk about **motion** without mentioning his laws. 
+I have no idea since when the word **velocity** found a new home in software development, it is nevertheless popular these days. However I am pretty sure that Mr Isaac Newton would not be happy if you talk about **motion** without mentioning his laws. 
 
 # First Law
 > When viewed in an inertial reference frame, an object either remains at rest or continues to move at a constant velocity, unless acted upon by an external force.
